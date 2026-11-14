@@ -1,0 +1,34 @@
+project:
+  type: default
+  title: "Open-source Software for the Implementation of New Statistical Methods"
+  resources:
+    - "_extensions/"
+    - "css/"
+    - "img/"
+    - "js/"
+    - "modulesCompl/"
+    - "*.html"
+    - "*_files/"
+  render:
+    - "*.qmd"
+    
+format:
+  insee-clair-revealjs: default
+  
+fig-cap-location: bottom
+
+from: markdown+emoji
+lang: "en"
+
+execute:
+  echo: false
+  cache: false
+  message: false
+  warning: false
+  error: true
+
+revealjs-plugins:
+  - pointer
+  - confetti
+  - verticator
+  - multimodal

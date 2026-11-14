@@ -1,0 +1,63 @@
+---
+title: uRos Conference
+subtitle: "uRos Conference"
+#author: Romain Lesur
+date: 11/19/2026
+date-format: long
+slide-number: false
+# uncomment for French presentations:
+# lang: fr
+# for blind readers:
+slide-tone: false
+chalkboard: false
+jump-to-slide: true #press "g" to jump and the number of slide
+mouse-wheel: false
+transition: none
+multiplex: false
+embed-resources: false
+custom-toc: true
+
+# visual editor configuration:
+editor:
+  render-on-save: true
+---
+
+# Part 1 {.backgroundTitre_bleu}
+
+## Subtitle {.backgroundStandard_bleu}
+
+## Subtitle {.backgroundStandard}
+
+# Part 2 {.backgroundTitre_violet}
+
+## Subtitle {.backgroundStandard_violet}
+
+## Subtitle {.backgroundStandard}
+
+# Part 3 {.backgroundTitre_jaune}
+
+## Subtitle {.backgroundStandard_jaune}
+
+## Subtitle {.backgroundStandard}
+
+# Part 4 {.backgroundTitre_vert}
+
+## Subtitle {.backgroundStandard_vert}
+
+## Subtitle {.backgroundStandard}
+
+## {#pageDeFin data-menu-title="Page finale" .unnumbered .backgroundPageFinale}
+
+:::: {.columns .coordonneesFinales}
+
+::: {.column .coordonnees width=50%}
+- Romain Lesur
+- Regional Director Insee Pays de la Loire
+- <romain.lesur@insee.fr>
+:::
+
+::: {.column .droite width=40%}
+:::
+
+::::
+
